@@ -1,5 +1,0 @@
-red5:
-  image: vimagick/red5
-  ports:
-    - "1935:1935"
-  restart: always

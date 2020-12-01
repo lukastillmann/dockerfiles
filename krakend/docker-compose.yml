@@ -1,7 +1,0 @@
-krakend:
-  image: devopsfaith/krakend
-  ports:
-    - "8080:8080"
-  volumes:
-    - ./data:/etc/krakend
-  restart: unless-stopped

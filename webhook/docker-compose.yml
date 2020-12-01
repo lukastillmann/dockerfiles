@@ -1,7 +1,0 @@
-webhook:
-  image: vimagick/webhook
-  ports:
-    - "9000:9000"
-  volumes:
-    - "./data:/etc/webhook"
-  restart: always

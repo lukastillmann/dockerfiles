@@ -1,9 +1,0 @@
-sftp:
-  image: atmoz/sftp:alpine
-  ports:
-    - "2222:22"
-  volumes:
-    - /etc/ssh
-    - ./data:/home
-    - ./data/users.conf:/etc/sftp/users.conf:ro
-  restart: unless-stopped

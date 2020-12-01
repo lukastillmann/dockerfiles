@@ -1,3 +1,0 @@
-- https://www.confluent.io/hub/confluentinc/kafka-connect-jdbc
-- https://www.confluent.io/hub/mongodb/kafka-connect-mongodb
-- https://www.confluent.io/hub/neo4j/kafka-connect-neo4j

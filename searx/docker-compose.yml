@@ -1,5 +1,0 @@
-searx:
-  image: wonderfall/searx
-  ports:
-    - "8888:8888"
-  restart: unless-stopped

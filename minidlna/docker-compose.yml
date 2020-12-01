@@ -1,6 +1,0 @@
-minidlna:
-  image: vimagick/minidlna
-  volumes:
-    - ./data:/opt
-  net: host
-  restart: always

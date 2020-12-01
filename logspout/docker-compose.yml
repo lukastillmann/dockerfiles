@@ -1,6 +1,0 @@
-logspout:
-  image: gliderlabs/logspout
-  command: syslog://10.50.254.182:514
-  volumes:
-    - /var/run/docker.sock:/var/run/docker.sock
-  restart: always

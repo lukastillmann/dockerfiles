@@ -1,5 +1,0 @@
-datax:
-  image: vimagick/datax
-  command: /data/job.json
-  volumes:
-  - ./data:/data
